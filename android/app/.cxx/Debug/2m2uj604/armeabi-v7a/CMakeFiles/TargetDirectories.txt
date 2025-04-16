@@ -1,0 +1,2 @@
+/Users/sanidhya/dev/app/Minor1/android/app/.cxx/Debug/2m2uj604/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sanidhya/dev/app/Minor1/android/app/.cxx/Debug/2m2uj604/armeabi-v7a/CMakeFiles/rebuild_cache.dir

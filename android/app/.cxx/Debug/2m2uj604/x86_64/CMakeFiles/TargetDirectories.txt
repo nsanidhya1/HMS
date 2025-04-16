@@ -1,0 +1,2 @@
+/Users/sanidhya/dev/app/Minor1/android/app/.cxx/Debug/2m2uj604/x86_64/CMakeFiles/edit_cache.dir
+/Users/sanidhya/dev/app/Minor1/android/app/.cxx/Debug/2m2uj604/x86_64/CMakeFiles/rebuild_cache.dir
