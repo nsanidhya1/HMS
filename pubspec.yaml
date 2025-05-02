@@ -1,0 +1,40 @@
+name: hospital_form_app
+description: A multi-screen Flutter hospital patient form app with theme switch and data saving.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Theme and state management
+  provider: ^6.0.5
+  shared_preferences: ^2.2.2
+  # File handling and sharing
+  share_plus: ^7.2.1
+  cross_file: ^0.3.3+4
+  permission_handler: ^11.0.1
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+  device_info_plus: ^9.0.2
+
+  # Date formatting
+  intl: ^0.18.1
+
+  # iOS-style icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img.png
